@@ -22,10 +22,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<p float="center">
-  <img src='Walkthrough_Add.gif' title='Video Walkthrough Adding Items' width='300' alt='Video Walkthrough Adding Items'/>
-  <img src='Walkthrough_Edit.gif' title='Video Walkthrough Editing Items' width='300' alt='Video Walkthrough Editing Items'/>
-  <img src='Walkthrough_Remove.gif' title='Video Walkthrough Removing Items' width='300' alt='Video Walkthrough Removing Items'/>
+<p float="left">
+  <img src='Walkthrough_Add.gif' title='Video Walkthrough Adding Items' width='250' alt='Video Walkthrough Adding Items'/>
+  <img src='Walkthrough_Edit.gif' title='Video Walkthrough Editing Items' width='250' alt='Video Walkthrough Editing Items'/>
+  <img src='Walkthrough_Remove.gif' title='Video Walkthrough Removing Items' width='250' alt='Video Walkthrough Removing Items'/>
 </p>                                                                             
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
