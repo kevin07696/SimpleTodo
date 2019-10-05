@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Walkthrough_Add.gif' title='Video Walkthrough Adding Items' width='' alt='Video Walkthrough Adding Items' />
+<img src='Walkthrough_Edit.gif' title='Video Walkthrough Editing Items' width='' alt='Video Walkthrough Editing Items' />
+<img src='Walkthrough_Remove.gif' title='Video Walkthrough Removing Items' width='' alt='Video Walkthrough Removing Items' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
